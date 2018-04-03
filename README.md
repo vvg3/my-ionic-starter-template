@@ -30,3 +30,6 @@ This project adds to the blank ionic template:
 
 This project edits:
   - package.json | to add a scripts "test" object
+  - karma.conf.js | change angular-cli to @angular/cli (frameworks, require and preprocessors)
+  - package.json | zone.js version 8.24
+  - angular-cli.json | to remove "source" from environments and add "environmentSource" element
