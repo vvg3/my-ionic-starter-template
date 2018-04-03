@@ -12,3 +12,4 @@ This project includes:
   - codecov | to measure source code executed by a test suite
   - jasmine-core | testing framework for JavaScript
   - jasmine-spec-reporter | to print test results to the console in real time
+  - ts-node | TypeScript execution environment for node
