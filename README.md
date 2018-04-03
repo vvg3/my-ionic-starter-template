@@ -13,3 +13,4 @@ This project includes:
   - jasmine-core | testing framework for JavaScript
   - jasmine-spec-reporter | to print test results to the console in real time
   - ts-node | TypeScript execution environment for node
+  - tslint | an extensible static analysis tool that checks TypeScript code for errors
