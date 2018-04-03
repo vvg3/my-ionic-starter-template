@@ -21,3 +21,7 @@ This project includes the following installations:
 This project adds to the blank ionic template:
   - karma.conf.js | to configure Karma (https://karma-runner.github.io/0.13/config/configuration-file.html)
   - angular-cli.json | to configure Angular CLI
+  - src/environments/environment | dev environment
+  - src/environments/environment.prod | prod environment
+  - src/mocks | simplified classes used for testing
+  - src/polyfills | needed by Angular 2 and is loaded before the app
