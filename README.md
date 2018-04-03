@@ -12,5 +12,7 @@ This project includes:
   - codecov | to measure source code executed by a test suite
   - jasmine-core | testing framework for JavaScript
   - jasmine-spec-reporter | to print test results to the console in real time
+  - @types/jasmine | package containing type definitions for Jasmine
   - ts-node | TypeScript execution environment for node
   - tslint | an extensible static analysis tool that checks TypeScript code for errors
+  - tslint-eslint-rules | adds the missing ESLint rules
