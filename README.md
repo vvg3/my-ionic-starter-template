@@ -1,7 +1,7 @@
 # my-ionic-starter-template
 starter template for an ionic project
 
-This project includes:
+This project includes the following installations:
   - karma | to facilitate testing in browsers
   - karma-cli | to interact with karma via the terminal
   - karma-chrome-launcher | to launch the karma window in Chrome, Chrome Canary or Chromium
@@ -17,3 +17,7 @@ This project includes:
   - @types/node | package containing type definitions for Node
   - tslint | an extensible static analysis tool that checks TypeScript code for errors
   - tslint-eslint-rules | adds the missing ESLint rules
+
+This project adds to the blank ionic template:
+  - karma.conf.js | to configure Karma (https://karma-runner.github.io/0.13/config/configuration-file.html)
+  - angular-cli.json | to configure Angular CLI
