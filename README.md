@@ -6,3 +6,4 @@ This project includes:
   - angular | a command line interface for Angular
   - codecov | to measure source code executed by a test suite
   - jasmine-core | testing framework for JavaScript
+  - jasmine-spec-reporter | to print test results to the console in real time
