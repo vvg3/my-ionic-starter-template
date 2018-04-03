@@ -6,6 +6,7 @@ This project includes:
   - karma-cli | to interact with karma via the terminal
   - karma-chrome-launcher | to launch the karma window in Chrome, Chrome Canary or Chromium
   - karma-jasmine | a karma adapter for the Jasmine testing framework
+  - karma-mocha-reporter | a karma plugin for reporting in the terminal with mocha style logging
   - angular | a command line interface for Angular
   - codecov | to measure source code executed by a test suite
   - jasmine-core | testing framework for JavaScript
