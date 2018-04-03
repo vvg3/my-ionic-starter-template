@@ -14,5 +14,6 @@ This project includes:
   - jasmine-spec-reporter | to print test results to the console in real time
   - @types/jasmine | package containing type definitions for Jasmine
   - ts-node | TypeScript execution environment for node
+  - @types/node | package containing type definitions for Node
   - tslint | an extensible static analysis tool that checks TypeScript code for errors
   - tslint-eslint-rules | adds the missing ESLint rules
